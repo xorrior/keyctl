@@ -1,4 +1,4 @@
-module github.com/jsipprell/keyctl
+module github.com/xorrior/keyctl
 
 go 1.12
 
